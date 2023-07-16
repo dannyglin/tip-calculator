@@ -2,7 +2,7 @@
 
 **Tip Calc** is a tip calculator application for iOS.
 
-Submitted by: **Tony Fu**
+Submitted by: **Danny Lin**
 
 Time spent: **6** hours spent in total
 
@@ -29,7 +29,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/NHvnVzzGOD.gif' width='250' alt='Video Walkthrough' />
+http://recordit.co/YxOdhEC3cz
+
+<img src='http://recordit.co/YxOdhEC3cz' width='250' alt='Video Walkthrough' />
 
 GIF created with [Recordit](http://www.recordit.co/).
 
@@ -45,7 +47,7 @@ Finding which action I wanted to use to make the most intuitive user experience
 
 ## License
 
-    Copyright [2021] [Tony Fu]
+    Copyright [2021] [Danny Lin]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
